@@ -10,10 +10,6 @@ namespace ConsoleApp1
             Console.WriteLine("bonjour tout le monde");
             Console.WriteLine("bonjour tout le monde");
             Console.WriteLine("bonjour tout le monde");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("bonjour tout le monde");
-            Console.WriteLine("bonjour tout le monde");
-            Console.WriteLine("bonjour tout le monde");
 
             Console.WriteLine("Hello World!");
             Console.WriteLine("bonjour tout le monde");
